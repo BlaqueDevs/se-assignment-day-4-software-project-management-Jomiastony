@@ -160,38 +160,66 @@ Examples of Projects well-suited for Waterfall methodology include:
 
 Methods for ensuring quality assurance throughout a software project:
 i. Unit Testing:
+
     Purpose: Verifies the correctness of individual units of code (e.g., functions, classes).
+    
     Benefits: Identifies defects early in the development cycle, improves code maintainability, and provides a foundation for regression testing.
+
 ii. Integration Testing:
+   
     Purpose: Ensures that different components of the software interact as expected.
+   
     Benefits: Detects issues that arise from the combination of modules, improves system stability, and prevents integration-related failures.
-3. System Testing:
+iii. System Testing:
+
 Purpose: Evaluates the entire system against specified requirements.
+
 Benefits: Validates the overall functionality and performance of the software, ensures it meets user expectations, and helps identify defects that may not be apparent in lower-level testing.
-4. Acceptance Testing:
+
+iv. Acceptance Testing:
+
 Purpose: Assesses whether the software meets the needs and expectations of the customer or end-user.
+
 Benefits: Confirms that the software is ready for deployment, reduces the risk of post-release defects, and ensures customer satisfaction.
-5. Code Reviews:
+v. Code Reviews:
+
 Purpose: Examines the code for quality, adherence to coding standards, and potential issues.
+
 Benefits: Improves code readability, maintainability, and consistency, reduces defects, and promotes knowledge sharing among team members.
-6. Static Code Analysis:
+vi. Static Code Analysis:
+
 Purpose: Automatically analyzes source code for potential errors, security vulnerabilities, and coding standards violations.
+
 Benefits: Identifies defects early in the development process, improves code quality, and helps prevent security breaches.
-7. Performance Testing:
+vii. Performance Testing:
+
 Purpose: Evaluates the software's performance under various workloads and conditions.
+
 Benefits: Ensures the software meets performance requirements, identifies bottlenecks, and helps optimize resource usage.
-8. Security Testing:
+viii. Security Testing:
+
 Purpose: Assesses the software's vulnerability to security threats.
+
 Benefits: Protects sensitive data, prevents unauthorized access, and mitigates the risk of security breaches.
-9. Usability Testing:
+ix. Usability Testing:
+
 Purpose: Evaluates the software's ease of use and user experience.
+
 Benefits: Improves user satisfaction, reduces support costs, and enhances the overall adoption of the software.
+
+
 Why is it important to maintain high standards?
+
 i.	Customer Satisfaction: High-quality software meets user expectations, leading to increased customer satisfaction and loyalty.   
+
 ii.	Reduced Costs: Defects discovered early in the development process are less expensive to fix than those found later.
+
 iii.	Improved Reputation: Reliable and well-functioning software enhances the reputation of the organization.
+
 iv.	Regulatory Compliance: Many industries have specific quality standards that must be met to comply with regulations.
+
 v.	Risk Mitigation: Quality assurance helps identify and address potential risks before they impact the software's functionality or performance.
+
 vi.	By implementing effective quality assurance methods, organizations can deliver reliable, high-quality software that meets the needs of their customers and stakeholders.
 
 
