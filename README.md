@@ -224,6 +224,21 @@ vi.	By implementing effective quality assurance methods, organizations can deliv
 
 
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+
+WBS is a visual, hierarchical and deliverable-oriented deconstruction of a project into smaller, more manageable components.
+
+Making WBS is essential for developing a project schedule.  It defines all the tasks and their sequence, guiding the project towards its objectives.This structure provides a comprehensive view of the project scope, facilitating efficient resource allocation for each task.
+
+A well-constructed work breakdown structure helps with important project management process groups and knowledge areas such as:
+
+i.      Project Planning, Project Scheduling and Project Budgeting.
+
+ii.     Risk Management, Resource Management, Task Management and Team Management.
+
+ii.     Helps avoid common project management issues such as missed deadlines, scope creep and cost overrun, among others.
+
+WBS serves as your map through complex projects. Your project scope may include several phases or smaller sub-projects—and even those sub-projects can be broken down into tasks, deliverables, and work packages. WBS helps manage those items, and gain clarity into the details needed to accomplish every aspect of the project's scope.
+
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
